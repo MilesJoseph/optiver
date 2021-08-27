@@ -1,4 +1,4 @@
-##Optiver Kaggle Competition 
+
 
 ==============================
 
