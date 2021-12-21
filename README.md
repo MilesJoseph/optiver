@@ -1,5 +1,5 @@
 
-# Optiver Realized Volatility Prediction
+# Optiver Realized Volatility Prediction :moneybag:
 
 This repo is for the compeition hosted by Optiver pertaining to market volatility. Here is a description from the compeition page; 
 
@@ -15,3 +15,7 @@ Through this competition, you'll gain invaluable insight into volatility and fin
 ## Evaluation
 
 Submissions are evaluated using the root mean square percentage error. 
+
+## Conclusion
+
+I picked this competition back up after the submission deadline had already passed. So, there is a notebook undert the notebook section that is pretty impressive starter notebook from another kaggler but it overfits and I was unable to actually test the submission. I will be moving on to another competition. 
